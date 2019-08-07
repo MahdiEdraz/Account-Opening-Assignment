@@ -1,2 +1,3 @@
-# Account-Opening-Assignment
-Create a basic virtualization of account opening
+# Virtual-Bank
+Create a basic virtualization of a bank
+
