@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db-params>
+jdbc:mysql://localhost:3306/VR_BANk","root","1234Prog"
+<host>localhost</host>
+<port>3306</port>
+<db>VR-Bank</db>
+<user-name>root</user-name>
+<password>1234Prog</password>
+</db-params>
